@@ -1,0 +1,6 @@
+Thumbs.db
+*.suo
+[Dd]ebug*/
+[Rr]elease*/
+obj/
+*.bak
